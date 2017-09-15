@@ -1,0 +1,33 @@
+body{
+	font-family: Arial;
+	font-size:10pt;
+}
+
+p{
+	text-align: justify;
+	text-ident:20px;
+}
+
+article h1 {
+	font-size:15pt;
+	color:#fff;
+	background-color: rgba(0,0,0,.3);
+	padding:5px;
+	margin: 0px;
+}
+
+article h2 {
+	font-size: 13pt;
+	color: #888;
+	margin:0px;
+}
+/* margem para o artigo -- para não ver todos os artigos de uma única vez */
+article {
+	margin-bottom:800px;
+}
+
+img.img_dir{
+	display:block;
+	float:right;
+	margin-left:5px;
+}
